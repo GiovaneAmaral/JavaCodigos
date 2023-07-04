@@ -25,9 +25,7 @@ Crie dois construtores:
 a. um que não recebe argumentos: inicia capacidade com 0.0 e ocupado
 com false
 b. um que recebe os valores para os atributos.
-Crie o método ocupar( ), que recebe a medida (em m2
-
-) do conteúdo. O
+Crie o método ocupar( ), que recebe a medida (em m2) do conteúdo. O
 
 método deve:
 a. mudar o valor de ocupado para true e retornar true, caso a medida
